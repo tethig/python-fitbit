@@ -11,6 +11,8 @@ python-fitbit
    :target: https://requires.io/github/orcasgit/python-fitbit/requirements/?branch=master
    :alt: Requirements Status
 
+**Forked by tethig - see Pipeline.md for workflow to obtain data.**
+
 Fitbit API Python Client Implementation
 
 For documentation: `http://python-fitbit.readthedocs.org/ <http://python-fitbit.readthedocs.org/>`_
